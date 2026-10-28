@@ -1,0 +1,7 @@
+{
+  "id": "espace-membre-react-router",
+  "nom": "Espace membre pour React Router",
+  "cadriciel": "remix",
+  "categorie": "application",
+  "variables": ["SESSION_SECRET"]
+}
